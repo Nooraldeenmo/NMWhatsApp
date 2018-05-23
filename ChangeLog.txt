@@ -10,5 +10,5 @@
 <li>If you would like to support me, login to my site and click on the ads</li>
 <li>This message will end immediately after the new update</li>
 
-","url":"http://nooraldeen-dev.blogspot.com/2018/01/NMWhatsApp.html"
+","url":"http://www.dev-nooraldeen.com/2018/01/NMWhatsApp.html?m=1"
 } 
