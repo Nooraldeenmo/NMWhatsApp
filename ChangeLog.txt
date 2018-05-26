@@ -2,8 +2,9 @@
 <p>تحديث 1.50</p>
 <p>Update 1.50</p>
 
-</li>اصلاح مشكلة ظهور (اغلق بالقوة) عند حفظ الصور</li> 
-<li>إصلاحات اخرى</li> 
+<li>اصلاح مشكلة ظهور (اغلق البرنامج بالقوة) عند حفظ الصور</li> 
+<li>إصلاحات اخرى</li>
+
 <li>Fix the appearance problem (closed NMWhatsApp by force) when saving images</li> 
 <li> Other reforms</li> 
 
