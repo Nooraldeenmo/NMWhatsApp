@@ -40,5 +40,5 @@
 <li> Updated Italian and Portuguese Language</li>
 <li> Many Other Fixes</li>
 
-","url":"https://www.dev-nooraldeen.com/2017/10/nmwhatsapp.html?m=1"
+","url":"https://www.dev-nooraldeen.com/2017/10/nmwhatsapp.html"
 } 
