@@ -23,7 +23,6 @@
 <li>تحديث اللغات الايطالية والبرتغالية<li>
 <li>اصلاحات اخرى<li>
 
-
 <li> New Base Updated to 2.18.203</li>
 <li> Exclusive Know Which Messages are Deleted Anytime you want (Go to Contact/Group Profile and Click on Revoked Messages) </li>
 <li> Enabled Media Visibility (Go to Profile - Media Visibility) </li>
