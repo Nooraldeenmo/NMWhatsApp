@@ -1,30 +1,21 @@
-{"version_code":451210,"content":"
-<p>تحديث 1.90</p>
-<p>Update 1.90</p>
+{"version_code":451214,"content":"
+<p>تحديث 2.00</p>
+<p>Update 2.00</p>
 
-<li>يمكنك اضافة ملصقات للواتساب من تطبيقات الماركت</li>
-<li>إضافة خطوط جديدة</li>
-<li>إضافة ايقونات جديدة</li>
-<li>إضافة الخيار 6.21 لتعطيل فتح المحادثات المخفية بعد الضغط على كلمة WhatsApp</li>
-<li>يمكنك ترتيب عرض الرسائل حسب الاقدم او الاحد بعد عرض الرسائل المرسلة من قبل اي شخص في المجموعة </li>
-<li>يمكنك تثبيت ٣٠ محادثة بدلا من ٢٥ محادثة</li>
-<li>إضافة نافذة تأكيد عند الاتصال بشخص ما من داخل المجموعة</li>
-<li>اصلاح الايقاف الاجباري عندي اختيار اكثر من شخص في قائمة الرد التلقائي و الرسائل المجدولة</li>
-<li>اصلاح خيار تغيير اللغة في اصدار اوريو واعلى</li>
-<li>اصلاح ظهور نافذة عرض الرسائل المرسلة بعد الضغط على عرض المزيد في معلومات المجموعة</li>
-<li>إصلاحات اخرى</li>
+<li>نسخة ضد الحظر (يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيت التحديث الجديد حتى لا يتم حظر رقمك مستقبلا)</li>
+<li>تمديد صلاحية النسخة لمدة شهرين</li>
+<li>اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
+<li>اصلاح لون الدفعات في شاشة المحادثة</li>
+<li>اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
+<li>اصلاحات اخرى</li>
 
-<li> Added Now You can Add Stickers From PlayStore to any Package</li>
-<li> Added New Fonts</li>
-<li> Added New Launcher Icons</li>
-<li> Added Option to Disable click on Header for Hidden Chats (Mod 6.21)</li>
-<li> Added Now You can Sort Messages Sent By (Newest/Oldest) </li>
-<li> Added Confirmation Dialog when Call in Group Chat</li>
-<li> Increased Pin Chats from 25 to 30</li>
-<li> Fixed Force Close when Select more than 2 contacts in Auto Reply/Message Scheduler </li>
-<li> Fixed Change App Language in Android Oreo and Pie</li>
-<li> Fixed Showing View Messages sent By when Click on More Contacts in Group Profile</li>
-<li> Many More Fixes</li>
+<li> Anti-Ban (Please take Backup - Uninstall App / Install NMWhatsApp v2.00)</li>
+<li> Extend expiry for this Base</li>
+<li> Fixed Hidden Chat Count Showing on Main Screen</li>
+<li> Fixed Payments Color in Attach Menu</li>
+<li> Fixed Crash when open chat in some devices</li>
+<li> Other Fixes</li>
 
-","url":"https://www.dev-nooraldeen.com/2017/10/nmwhatsapp.html"
-} 
+
+","url":"https://nmmods.blogspot.com/2019/07/nmwhatsapp-ar.html"
+} 
