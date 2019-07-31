@@ -1,21 +1,17 @@
-{"version_code":451214,"content":"
-<p>تحديث 2.00</p>
-<p>Update 2.00</p>
+{"version_code":451217,"content":"
+<p>تحديث 2.05</p>
+<p>Update 2.05</p>
 
-<li>نسخة ضد الحظر (يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيت التحديث الجديد حتى لا يتم حظر رقمك مستقبلا)</li>
-<li>تمديد صلاحية النسخة لمدة شهرين</li>
-<li>اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
-<li>اصلاح لون الدفعات في شاشة المحادثة</li>
+<li>المزيد من حماية ضد الحظر /اذا تم حظر حسابك من قبل يجب أن:1- يجب عمل نسخة احتياطية للدردشات ثم حذف الواتس اب وتثبيته من جديد 2- اعادة تثبيت النسخة 2.05وتعريف الرقم واستعادة دردشاتك</li>
+<li>تمديد صلاحية النسخة لمدة خمسة اشهر من تايخ النشر</li>
 <li>اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
 <li>اصلاحات اخرى</li>
 
-<li> Anti-Ban (Please take Backup - Uninstall App / Install NMWhatsApp v2.00)</li>
-<li> Extend expiry for this Base</li>
-<li> Fixed Hidden Chat Count Showing on Main Screen</li>
-<li> Fixed Payments Color in Attach Menu</li>
+<li> More Anti-Ban (Please take Backup - Uninstall App / Install NMWhatsApp v2.05)</li>
+<li> Extend expiry for this Base to 5 months</li>
 <li> Fixed Crash when open chat in some devices</li>
 <li> Other Fixes</li>
 
 
-","url":"https://nmmods.blogspot.com/2019/07/nmwhatsapp-ar.html"
+","url":"https://nmmods.blogspot.com/search/label/NMWhatsApp"
 } 
