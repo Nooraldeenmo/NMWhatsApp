@@ -1,4 +1,4 @@
-{"version_code":451214,"content":"
+{"version_code":451217,"content":"
 <p>تحديث 2.05</p>
 <p>Update 2.05</p>
 
@@ -13,5 +13,5 @@
 <li> Other Fixes</li>
 
 
-","url":"https://nmmods.blogspot.com/search/label/NMWhatsApp"
+","url":"https://nmmods.blogspot.com/2019/07/nmwhatsapp-ar.html"
 } 
